@@ -1,0 +1,29 @@
+Q.2 Explain Semantic tags in html? And why do we need it?
+Answer: Semantic tags in HTML are elements that carry meaning and convey the structure of the content they enclose. They provide a way to describe the purpose or role of the content within the document.
+Semantic tags include elements like `<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, `<footer>`, and more.
+
+Here are some common semantic tags and their purposes:
+
+1. `<header>`: Represents the introductory content of a section or a page, typically containing the site logo, navigation, and other introductory elements.
+
+2. `<nav>`: Defines a section of navigation links.
+
+3. `<section>`: Represents a standalone section of content within a document. It could be a chapter, tabbed content, or any other distinct part of the content.
+
+4. `<article>`: Represents a self-contained composition that can be independently distributed or reused, such as a blog post, news article, or comment.
+
+5. `<aside>`: Represents content that is tangentially related to the main content, such as sidebars, pull quotes, or additional information.
+
+6. `<footer>`: Represents the footer of a section or a page, typically containing copyright information, contact details, and related links.
+
+Using semantic tags in HTML has several benefits:
+
+1. **Accessibility**: Semantic tags improve the accessibility of web content by providing meaningful structure and context to assistive technologies, allowing users with disabilities to better understand and navigate the page.
+
+2. **Search engine optimization**: Search engines can better understand the content and structure of a webpage when semantic tags are used, potentially leading to better rankings and visibility in search results.
+
+3. **Code maintainability**: Semantic tags make the HTML code more readable and understandable for developers, making it easier to maintain and update the website in the future.
+
+4. **Consistency and clarity**: By using semantic tags, you can clearly define the purpose and role of different sections of your webpage, making the code more consistent and easier to comprehend for yourself and other developers.
+
+Overall, semantic tags help to create a well-structured and meaningful HTML document, which benefits both users and developers in terms of accessibility, search engine optimization, code maintainability, and clarity of content.
