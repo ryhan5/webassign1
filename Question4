@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #333;
+      font-size: 24px;
+    }
+    h2 {
+      color: #666;
+      font-size: 18px;
+    }
+    p {
+      color: #333;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Rehan Akhtar</h1>
+  <h2>I am a Full Stack Web Developer Currently, I am in my first year of B.Tech.I am looking for an internship in the field of web development</h2>
+
+  <h2>Contact Information</h2>
+  <p>Email: ryhnakhar@gmai.com</p>
+  <p>Phone: +91 7003760732</p>
+
+  <h2>Education</h2>
+  <p>First Year, B.Tech(CSE_AI) | University Name: Techno India university | Graduation Year: 2026</p>
+
+
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>C</li>
+    <li>Python</li>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+  </ul>
+</body>
+</html>
