@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Question 5</title>
+</head>
+<body>
+  <img src="./images/pexels-lukas-rychvalsky-670720.jpg"
+  width="700"
+  height="400" />
+  <h2>We will be learning following tings this week:</h2>
+
+  <h3>Day 1 Day 2 Day 3 Day 4</h3>
+  <p>Linux 1 HTML Linux 2 Linux 3</p>
+  GIT 1 CSS GIT 2 Bootstrap
+  <br>
+  <label for="name">Name:</label>
+  <input type="name" id="name" required>
+  <br>
+  <label for="phone no.">phone no:</label>
+  <input type="phone no." id="phone" required>
+  <br>
+  <label for="email id">email id:</label>
+  <input type="email" id="email" required>
+  <br>
+  <h1>The following things are important to be a programmer</h1>
+  <ul>
+  <li>A problem solving mindset</li>
+  <li>Consistency</li>
+  <ul style ="list-style-type:circle;">
+    <li>clean code</li>
+  <li>Through knowledge of code</li>
+  <li>redeable code</li>
+  </ul>
+<li>Speed</li>
+  </ul>
+  </body>
+</html>
