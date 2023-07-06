@@ -1,0 +1,26 @@
+In HTML, a tag is an element that defines the structure and content of a web page, while an attribute provides additional information or properties to the HTML elements. 
+
+HTML Tag: Tags are used to define the structure and semantics of the content on a web page. They are enclosed within angle brackets (`<>`) and usually come in pairs, consisting of an opening tag and a closing tag. For example, the `<p>` tag is used to define a paragraph, the `<h1>` tag represents a heading, and the `<div>` tag is a generic container element.
+
+Example:
+html
+<p>This is a paragraph.</p>
+<h1>This is a heading.</h1>
+<div>This is a container element.</div>
+
+HTML Attribute: Attributes provide additional information or modify the behavior of HTML elements. They are specified within the opening tag of an HTML element and consist of a name and a value, separated by an equals sign (`=`). Attributes can be used to control various aspects like styling, behavior, accessibility, and more. Examples of attributes include `class`, `id`, `src`, `href`, `alt`, etc.
+
+Example:
+html
+<img src="image.jpg" alt="Description of the image">
+<a href="https://www.example.com">Visit Example.com</a>
+<div class="container">This is a container element with a class attribute.</div>
+
+
+Here are some examples of global attributes that can be used with most HTML elements:
+
+- `class`: Specifies one or more class names for an element, allowing CSS and JavaScript to target and style the element.
+- `id`: Defines a unique identifier for an element, which can be used to style or manipulate the element via CSS or JavaScript.
+- `style`: Used to apply inline CSS styles directly to an element.
+- `title`: Provides additional information about an element, typically displayed as a tooltip when hovering over the element.
+- `lang`: Specifies the language of the element's content.
