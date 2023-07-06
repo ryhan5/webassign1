@@ -1,0 +1,18 @@
+The `<figure>` tag and the `<img>` tag serve different purposes in HTML.
+
+The `<img>` tag is specifically used to insert an image into an HTML document. It is a self-closing tag and requires the `src` attribute to specify the source URL of the image. The `<img>` tag is used to display standalone images within the content of a web page.
+
+Example:
+html
+<img src="image.jpg" alt="Description of the image">
+
+
+On the other hand, the `<figure>` tag is used to group media content, such as images, illustrations, diagrams, videos, etc., along with their captions or descriptions. It provides a way to associate a description or caption with the media element it wraps.
+
+Example:
+html
+<figure>
+  <img src="image.jpg" alt="Description of the image">
+  <figcaption>Caption or description of the image</figcaption>
+</figure>
+
